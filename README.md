@@ -42,7 +42,7 @@ The validation run compiles the project, executes the maintained regression harn
 
 ## Repository Structure
 
-- `assignment/MISSING_HANDOUT.md`: provenance note explaining that the exact matching handout was not recovered
+- `assignment/MISSING_HANDOUT.md`: background note explaining that the exact matching handout was not recovered
 - `resources/hw4/`: recovered text fixtures packaged with the submission
 - `src/il/ac/tau/cs/sw1/ex4/WordPuzzle.java`: my recovered implementation, maintained for current toolchains
 - `src/il/ac/tau/cs/sw1/ex4/WordPuzzleTester.java`: recovered small tester from the submitted source tree
